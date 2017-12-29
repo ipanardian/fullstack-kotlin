@@ -1,2 +1,2 @@
-# fullstack-kotlin
+# Fullstack Kotlin
 Fullstack Kotlin Backend Frontend Example
