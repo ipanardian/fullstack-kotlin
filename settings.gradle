@@ -1,0 +1,5 @@
+rootProject.name = 'FullstackKotlin'
+include 'KotlinBackend'
+include 'KotlinBackend'
+include 'KotlinFrontend'
+
